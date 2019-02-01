@@ -1,2 +1,2 @@
 # Intensivão de ferias
-Lista de estudos criada por @vitorguidi
+Lista de estudos criada por [@vitorguidi](https://github.com/VITORGUIDI)
